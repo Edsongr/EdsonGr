@@ -1,51 +1,57 @@
-# Sobre mim! 👋
+# Olá, eu sou o Edson! 👋
 
+> **Desenvolvedor Full Stack**
 
-> Desenvolvedor de sistema Full Stack com mais de 7 anos na área de tecnologia, experiência consolidada em desenvolvimento de sistemas web e mobile. Pós-Graduação em Engenharia de Software. Diversos outros cursos na área de desenvolvimento.
+Com mais de 10 anos de experiência consolidada na área de tecnologia, atuo no desenvolvimento e arquitetura de sistemas web e mobile, passando por todo o ciclo de vida da engenharia de software (Frontend, Backend, APIs e Banco de Dados). Tenho experiência na liderança de equipes e na criação de produtos digitais, desde aplicativos utilitários até grandes integrações corporativas.
 
+### 🎓 Formação Acadêmica
+- **Pós-graduação:** Engenharia de Machine Learning *(Em conclusão)*
+- **Pós-graduação:** Inteligência Artificial para Desenvolvedores
+- **Pós-graduação:** Engenharia de Software
+- **Graduação:** Tecnólogo em Ciência de Dados *(Em andamento)*
 
+### 💼 Áreas de Expertise & Domínios
+`E-commerce` • `Financial Services` • `Delivery Services` • `Integrações de Sistemas` • `Análise de Dados`
 
+---
+
+## 🛠️ Tecnologias & Habilidades
+
+- **Core:** Software Developer | Mobile Developer | Fullstack
+- **Arquitetura & Integração:** Criação e consumo de APIs | Backend | FrontEnd
+- **Stack Tecnológico:** PHP, MySQL, Flutter, Firebase, Python, Git e ecossistema de dados.
+
+---
+
+## 📊 Meus Status no GitHub
+
+<div align="center">
+  <a href="https://github.com/edsongr">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edsongr&layout=compact&langs_count=12&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edsongr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  </a>
+</div>
 
 <br>
 
-## No GitHub:
+<div align="center">
+  <img src="https://github.com/edsongr/edsongr/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+
+<br>
+
+## 📫 Como me encontrar:
 
 <div>
-  <a href="https://github.com/edsongr">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edsongr&layout=compact&langs_count=12&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edsongr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <a href="mailto:edsongrdeveloper@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+  <a href="https://www.linkedin.com/in/edsongroliveira" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>   
 </div>
-
-<br>
-
-![Snake animation](https://github.com/edsongr/edsongr/blob/output/github-contribution-grid-snake.svg)
-
-<br>
-
-## Contatos:
-
-<div
-<a href = "mailto:edsongrdeveloper@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/edsongroliveira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
-
 
 <!--
-**Edsongr/EdsonGr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
-
-<a href="https://www.youtube.com/seu-canal-youtube-aqui" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-<a href="https://instagram.com/seu-usuário-instagram-aqui" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+🔭 Atualmente trabalhando em: Projetos Full Stack e aplicativos mobile.
+🌱 Aprendendo sobre: Machine Learning, Ciência de Dados e IA aplicada.
 -->
